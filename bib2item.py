@@ -52,8 +52,4 @@ def bib2item(bibfile=None):
  
 
 if __name__ == '__main__':
-    # Set the name of the output file.
-    # outfilestem = 'proteinScienceBibItems'
-    # home = '/Users/blaine/'
-    # Set the name of the input file.   
     bib2item()
